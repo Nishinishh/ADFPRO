@@ -1,0 +1,15 @@
+{
+	"name": "dfprodatafactoryng",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d648270d-5f16-40b5-98b7-0cfb379ef9e8",
+		"tenantId": "ea5c282f-aea3-4823-80f0-bf66e126f633"
+	}
+}
